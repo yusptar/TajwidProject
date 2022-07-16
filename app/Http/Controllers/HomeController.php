@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Gate;
 use App\NunSukun;
 use App\MimSukun;
+use Alert;
 
 class HomeController extends Controller
 {
