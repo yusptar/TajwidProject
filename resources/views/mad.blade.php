@@ -235,7 +235,7 @@ Panjang mad ini adalah 2 – 6 harokat ( 1 – 3 alif).</li>
 
           <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
             <div class="box featured">
-              <h3>8. Mad Shilah</h3>
+              <h3>Mad Shilah</h3>
               
               <ul>
                 <li>Mad ini terjadi pada huruf “ha” di akhir kata yang merupakan dhomir muzdakkar mufrod lilghoib (kata ganti orang ke-3 laki-laki).
